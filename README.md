@@ -4,7 +4,7 @@ I'm a full-stack software developer. I'm currently a student of Software Enginee
 
 * 🌍  I'm based in Caracas, Venezuela
 * ✉️  You can contact me at [leonardoibarra03@gmail.com](mailto:leonardoibarra03@gmail.com)
-* 🚀  I'm currently working on [My Portfolio](http://https://leoibarrapp.github.io/Portfolio/)
+* 🚀  I'm currently working on [My Portfolio](http://leoibarrapp.github.io/Portfolio/)
 * 🧠  I'm currently learning Power BI
 
 ### Skills
