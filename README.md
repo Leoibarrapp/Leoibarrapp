@@ -1,6 +1,6 @@
 <h1 align="center">Hi! My name is Leo</h1> 
 
-I'm a full-stack software developer. I'm currently a student of Software Engineering in the 7th semester in Universidad Católica Andrés Bello (UCAB) in Caracas, Venezuela.
+I'm a full-stack software developer. I'm currently a student of Software Engineering in the 7th semester at Andrés Bello Catholic University (UCAB) in Caracas, Venezuela.
 
 * 🌍  I'm based in Caracas, Venezuela
 * ✉️  You can contact me at [leonardoibarra03@gmail.com](mailto:leonardoibarra03@gmail.com)
